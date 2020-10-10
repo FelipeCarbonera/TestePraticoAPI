@@ -1,0 +1,1 @@
+Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Pichau\Source\Repos\TestePraticoAPI\TestePratico\UserApi\Database\Database.mdf;Integrated Security=True

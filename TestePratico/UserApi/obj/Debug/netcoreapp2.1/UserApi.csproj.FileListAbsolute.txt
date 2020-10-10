@@ -1,0 +1,14 @@
+C:\Users\Pichau\Source\Repos\TestePraticoAPI\TestePratico\UserApi\bin\Debug\netcoreapp2.1\UserApi.deps.json
+C:\Users\Pichau\Source\Repos\TestePraticoAPI\TestePratico\UserApi\bin\Debug\netcoreapp2.1\UserApi.runtimeconfig.json
+C:\Users\Pichau\Source\Repos\TestePraticoAPI\TestePratico\UserApi\bin\Debug\netcoreapp2.1\UserApi.runtimeconfig.dev.json
+C:\Users\Pichau\Source\Repos\TestePraticoAPI\TestePratico\UserApi\bin\Debug\netcoreapp2.1\UserApi.dll
+C:\Users\Pichau\Source\Repos\TestePraticoAPI\TestePratico\UserApi\bin\Debug\netcoreapp2.1\UserApi.pdb
+C:\Users\Pichau\Source\Repos\TestePraticoAPI\TestePratico\UserApi\obj\Debug\netcoreapp2.1\UserApi.csprojAssemblyReference.cache
+C:\Users\Pichau\Source\Repos\TestePraticoAPI\TestePratico\UserApi\obj\Debug\netcoreapp2.1\UserApi.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Source\Repos\TestePraticoAPI\TestePratico\UserApi\obj\Debug\netcoreapp2.1\UserApi.RazorAssemblyInfo.cache
+C:\Users\Pichau\Source\Repos\TestePraticoAPI\TestePratico\UserApi\obj\Debug\netcoreapp2.1\UserApi.RazorAssemblyInfo.cs
+C:\Users\Pichau\Source\Repos\TestePraticoAPI\TestePratico\UserApi\obj\Debug\netcoreapp2.1\UserApi.AssemblyInfoInputs.cache
+C:\Users\Pichau\Source\Repos\TestePraticoAPI\TestePratico\UserApi\obj\Debug\netcoreapp2.1\UserApi.AssemblyInfo.cs
+C:\Users\Pichau\Source\Repos\TestePraticoAPI\TestePratico\UserApi\obj\Debug\netcoreapp2.1\UserApi.RazorTargetAssemblyInfo.cache
+C:\Users\Pichau\Source\Repos\TestePraticoAPI\TestePratico\UserApi\obj\Debug\netcoreapp2.1\UserApi.dll
+C:\Users\Pichau\Source\Repos\TestePraticoAPI\TestePratico\UserApi\obj\Debug\netcoreapp2.1\UserApi.pdb
